@@ -104,7 +104,7 @@ import (
 	"context"
 	"fmt"
 
-	swagger "github.com/woolball-xyz/go-sdk" // ajuste o import conforme o caminho
+	swagger "github.com/woolball-xyz/go-sdk"
 )
 
 func main() {
